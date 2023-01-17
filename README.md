@@ -1,3 +1,3 @@
 # Reach out to my Porfolio
 
-Link: [Here](https://rahultg08.github.io/#)
+Link: [rahultg08.github.io](https://rahultg08.github.io/#)
